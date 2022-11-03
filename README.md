@@ -13,4 +13,7 @@ Annotations were labeled by trained human readers with quality control managemen
 - Age related Macular Degeneration (A),  
 - Hypertension (H),  
 - Pathological Myopia (M),  
-- Other diseases/abnormalities (O)  
+- Other diseases/abnormalities (O) 
+  
+ #### Goal:
+Build  a multi-label classification model to directly detect one or more fundus diseases in the retinal fundus images. 
